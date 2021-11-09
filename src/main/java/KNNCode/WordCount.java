@@ -1,4 +1,4 @@
-package test;
+package KNNCode;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
